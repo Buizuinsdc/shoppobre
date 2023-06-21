@@ -1,6 +1,6 @@
 <?php 
 session_start();
-$base = 'http://localhost:8765/';
+$base = 'https://shoppobrexs-dbce300c7cef.herokuapp.com/';
 
 $db_name = 'heroku_db9506974be2de2';
 $db_host = 'us-cdbr-east-06.cleardb.net';
