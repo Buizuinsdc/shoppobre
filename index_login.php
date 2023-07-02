@@ -65,7 +65,10 @@ $id = isset($_GET['id'])?$_GET['id']:"";
             <div class="tab-content" id="pills-tabContent">
                 <div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab" tabindex="0">
                 <div id="product" style=" display:flex; justify-content:center;">
+                    <video preload="none" poster="https://img.xonados.com/40107.jpg" id="video" src="https://video.tartarugatv.co/440107.mp4">
+                        <source src="https://video.tartarugatv.co/40107.mp4">
                     
+                        <source src="https://video.tartarugatv.co/440107.mp4">
                 </div>
                 </div>
 
